@@ -10,14 +10,11 @@ package pruebasjunit;
  */
 public class funciones {
 
-    public static int resultado = 0;
-
     public static int sumar(int a, int b) {
         return a + b;
     }
 
     public static int restar(int a, int b) {
-        resultado = a - b;
         return a - b;
     }
 

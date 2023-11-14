@@ -35,8 +35,8 @@ public class pruebas {
         int esp = 24;
         assertEquals(res, esp);
     }
-    @Test
-    /*public void testDividir(){
+    /*@Test
+    public void testDividir(){
         double res = pruebasjunit.funciones.dividir(6, 3);
         double esp = 2;
         assertEquals(res, esp);
